@@ -31,4 +31,23 @@ body {
 .body1 {
     margin-left: 5vh;
     margin-top: 5vh;
+    text-align: center;
+}
+
+.project_preview {
+    background-color: #555555;
+    display: inline-block;
+    width: 30vh;
+    height: auto;
+}
+
+.project_image {
+    width: 30vh;
+    height: 30vh;
+    clip: rect(0vh,30vh,30vh,0vh);
+}
+
+.project_image1 {
+    width: 30vh;
+    height: auto;
 }
