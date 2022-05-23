@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./dist/**/*.{html,js}"],
+  content: ["./**/*.{html,js}"],
   theme: {
     fontFamily: {
       "display": ["Helvetica"]
